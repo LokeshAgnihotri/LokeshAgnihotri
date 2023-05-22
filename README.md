@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lokesh Agnihotri</h1>
 <h3 align="center">A passionate student of Data Science And AI</h3>
-<img align="right" alt="coding" width="400" src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
+<img align="right" alt="coding" width="300" src= "https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshagnihotri&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshagnihotri" /> </p>
 
