@@ -62,4 +62,3 @@
 
 ```markdown
 
-You can paste this updated Markdown code into your profile to display the programming languages with their respective percentages.
