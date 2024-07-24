@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/LokeshAgnihotri/](https://github.com/LokeshAgnihotri)
 - 💬 Ask me about **Data Science, Machine Learning**
 - 📫 How to reach me: **Lokesh.Agnihotri@outlook.com**
-- 📄 Know about my experiences [[https://resume.io/r/FupmzZDJE](https://drive.google.com/file/d/1nA5JOxiw3eOO_MpbvDA75SEeS3JeyuZh/view?usp=sharing)](Click here)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nA5JOxiw3eOO_MpbvDA75SEeS3JeyuZh/view?usp=sharing]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
